@@ -24,7 +24,7 @@ div.clock{
     transform: translate(-50%, -50%);
     box-shadow: 10px 10px 35px;
 }
-div.clock svg{
+div.clock img{
     height: 100%;
     width: 100%;
     opacity: .6;
